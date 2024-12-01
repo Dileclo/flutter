@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "561166885746",
+    "project_id": "foodapp-5e1db",
+    "storage_bucket": "foodapp-5e1db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561166885746:android:e0175d7999afecb8db73eb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561166885746-l1tbm20vt1romdb9r4b23a0taetua0dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11stsfUXIlcOC4e2CSP7VlGIjErgyM_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561166885746-l1tbm20vt1romdb9r4b23a0taetua0dv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561166885746-m0n2rq8n746ln5f77dlgdc72ldl4phsk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lesson"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
